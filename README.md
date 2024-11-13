@@ -1,6 +1,6 @@
 # dotfiles
 
-![alt text](https://i.imgur.com/P83Eh5y.png)
+![alt text](https://i.imgur.com/BMFcRO7.png)
 ```
 				.		.	        .        '
      .         *         +               0 "Pity.          .:         .
