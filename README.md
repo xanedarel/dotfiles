@@ -1,4 +1,6 @@
 # dotfiles
+all my dot files for my i3wm configuration
+
 
 ![alt text](https://i.imgur.com/BMFcRO7.png)
 ```
