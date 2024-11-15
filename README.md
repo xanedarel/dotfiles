@@ -1,6 +1,9 @@
 # dotfiles
 all my dot files for my i3wm configuration
 
+Wallpaper linked with artist' credits and authorisation
+https://www.reddit.com/user/SouredApple/
+(go check them out!)
 
 ![alt text](https://i.imgur.com/BMFcRO7.png)
 ```
