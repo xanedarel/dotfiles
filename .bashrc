@@ -16,6 +16,5 @@ fi
 
 
 # Put your fun stuff here.
-alias hyfetch='hyfetch -b fastfetch'
 export PATH=/home/$USER/.cargo/bin:$PATH
 alias igb='sudo ethtool -s enp7s0 speed 1000'
