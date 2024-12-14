@@ -1,0 +1,6 @@
+sys-apps/dbus X elogind
+
+# required by x11-libs/xapp-2.8.5::gentoo
+# required by sys-apps/xdg-desktop-portal-xapp-1.0.9::gentoo
+# required by sys-apps/xdg-desktop-portal-xapp (argument)
+>=dev-libs/libdbusmenu-16.04.0-r2 gtk3
