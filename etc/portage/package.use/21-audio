@@ -1,0 +1,11 @@
+#pulseaudio
+>=media-plugins/alsa-plugins-1.2.7.1-r1 pulseaudio
+
+#cmus
+media-sound/cmus opus pulseaudio
+
+#easytag
+media-sound/easytag opus
+# required by media-sound/easytag-2.4.3-r5::gentoo
+# required by easytag (argument)
+>=media-libs/libcanberra-0.30-r7 gtk3
