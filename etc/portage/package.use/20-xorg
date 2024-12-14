@@ -1,0 +1,14 @@
+#i3
+x11-misc/i3status pulseaudio
+
+#xorg
+x11-base/xorg-server xorg elogind -systemd
+sys-apps/dbus X elogind -selinux -systemd
+sys-auth/elogind policykit -selinux
+
+#fastfetch
+app-misc/fastfetch X dbus pulseaudio
+
+#fonts
+media-fonts/fonts-meta l10n_ru
+media-fonts/nerd-fonts 0xproto 3270 agave anonymouspro arimo aurulentsansmono bigblueterminal bitstreamverasansmono ibmplexmono cascadiacode cascadiamono codenewroman comicshannsmono commitmono cousine d2coding daddytimemono dejavusansmono droidsansmono envycoder fantasquesansmono firacode firamono geistmono go-mono gohu hack hasklig heavydata hermit ia-writer inconsolata inconsolatago inconsolatalgc intelonemono iosevka iosevkaterm iosevkatermslab jetbrainsmono lekton liberationmono lilex martianmono meslo monaspace monofur monoid mononoki mplus noto opendyslexic overpass profont proggyclean recursive robotomono sharetechmono sourcecodepro spacemono nerdfontssymbolsonly terminus tinos ubuntu ubuntumono ubuntusans victormono zedmono X
