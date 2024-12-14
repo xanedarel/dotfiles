@@ -1,0 +1,5 @@
+xfce-base/thunar -libnotify -udisks -introspection -trash-panel-plugin
+xfce-base/tumbler odf curl ffmpeg jpeg pdf raw
+# required by xfce-base/tumbler-4.18.2::gentoo[raw]
+# required by tumbler (argument)
+>=media-libs/libopenraw-0.3.7 gtk
